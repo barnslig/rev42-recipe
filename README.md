@@ -7,8 +7,31 @@ Recipe
 We are working on the initial (and forkable) version.
 The idea of Leonard is to combine juice (referring to Rainer at CCC HH who said that nerds consuming only pizza and club-mate had an unhealthy lifestyle) with caffeine and Yerba Mate. Whereas Oleander wants to develop a drink without juice. Surely not easy...
 
-### Oleander's version ###
-It contains water, shugar (stevia for non-EU markets), Yerba Mate... [ fix me ]
+### Oleander's __initial__ version ###
+#### Partslist ####
+* as much sparkling water as possible (ex. Vitaqua Quelle CLASSIC from ALDI Nord named Quellbrunn or from REWE named ja!)
+* Yerba Mate (best roasted; mine was a "little" bit too old; five years over the minimum durability date)
+* Damania (I drink it often as a replacement for black tea)
+* (cane) sugar
+* boiled water
+* a funnel
+* a squeeze of leomon
+* a straw, a tube or what ever you can use to add your sparkling water to the sud (?) without losing the co2
+* a fine-meshed and a large-meshed sieve
+* two pots or something of the kind
+* bottle and bottle top (e.g. one of these bottle openers made from plastic)
+
+#### What you have to do ####
+First throw your boiled water into one pot. Now add the Mate (don't use too litle!) and let it brew for about seven minutes. Bring the fine-meshed sieve in position and put it onto the unused pot. Take the pot with the Mate and flip it over above the sieve. Let it drain for a while. When it's drained, take your Damania (not too much!) and let it brew for three to four minutes.
+Clean the pot you used to brew your Mate with cold water. Mount the sieve you just used. Now flip the pot above the sieve.
+Add the (cane) sugar and a squeeze of lemon to your tea, stir it and leave to cool.
+
+Now attach your straw / tube etc. to your funnel and fix it with some duct tape (Oh. I forgot that in the partslist. Sorry!)
+
+When you are ready insert the tube into your bottle and fill in the tea. We are almost done! Take your sparkling Water and throw it into the bottle. Find your speed! It's important that the tube keeps underwater. If not it foams over.... You know what I mean? ;)
+
+Add the botte top and let the fridge do the rest!
+
 
 ### Leonard's version ###
 A juicy-'healthy'-thingy (caffeine can't be healthy. thihihi)...
