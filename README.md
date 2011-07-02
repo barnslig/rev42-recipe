@@ -1,7 +1,7 @@
 Rev.42 Recipe
 =============
 
-<div style="width: 260px; height: 490px; right: 10px; top: -10px; position: relative;">
+<div style="width: 260px; height: 490px; float: right; right: 10px; top: -10px; position: relative;">
 	<img src="http://ole.halde.0l3.de/rev42/versions/etikett_senkrecht_bash_rageguy_pathed.svg" alt="rev.42 label" title="rev.42 label" />
 </div>
 
