@@ -34,7 +34,12 @@ Add the botte top and let the fridge do the rest!
 
 
 ### Leonard's version ###
-A juicy-'healthy'-thingy (caffeine can't be healthy. thihihi)...
+#### Partslist ####
+* A green mate tea bag
+* Hot water
+
+#### How to make it ####
+Put the tea bag into a cup, add the hot water and wait for 7 to 10 minutes.
 
 What for a license?
 -------------------
