@@ -22,13 +22,13 @@ The idea of Leonard is to combine juice (referring to Rainer at CCC HH who said 
 * bottle and bottle top (e.g. one of these bottle openers made from plastic)
 
 #### What you have to do ####
-First throw your boiled water into one pot. Now add the Mate (don't use too litle!) and let it brew for about seven minutes. Bring the fine-meshed sieve in position and put it onto the unused pot. Take the pot with the Mate and flip it over above the sieve. Let it drain for a while. When it's drained, take your Damania (not too much!) and let it brew for three to four minutes.
+First throw your boiled water into one pot. Now add the Mate (don't use too litle!) and let it brew for about seven minutes. Bring the large-meshed sieve in position and put it onto the unused pot. Take the pot with the Mate and flip it over above the sieve. Let it drain for a while. When it's drained, take your Damania (not too much!) and let it brew for three to four minutes.
 Clean the pot you used to brew your Mate with cold water. Mount the sieve you just used. Now flip the pot above the sieve.
 Add the (cane) sugar and a squeeze of lemon to your tea, stir it and leave to cool.
 
 Now attach your straw / tube etc. to your funnel and fix it with some duct tape (Oh. I forgot that in the partslist. Sorry!)
 
-When you are ready insert the tube into your bottle and fill in the tea. We are almost done! Take your sparkling Water and throw it into the bottle. Find your speed! It's important that the tube keeps underwater. If not it foams over.... You know what I mean? ;)
+When you are ready insert the tube into your bottle and fill in through the fine-meshed sieve the tea. We are almost done! Take your sparkling Water and throw it into the bottle. Find your speed! It's important that the tube keeps underwater. If not it foams over.... You know what I mean? ;)
 
 Add the botte top and let the fridge do the rest!
 
