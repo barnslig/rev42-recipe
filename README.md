@@ -1,5 +1,6 @@
 Rev.42 Recipe
 =============
+![Rev.42 logo](http://ole.halde.0l3.de/rev42/versions/etikett_senkrecht_bash_rageguy_pathed.svg "ev.42 logo")
 
 What is it?
 -----------
