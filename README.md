@@ -5,7 +5,7 @@ rev.42 recipe and drafts fo the label
 Recipe
 ------
 We are working on the initial (and forkable) version.
-The idea of Leonard is to combine juice (referring to Rainer at CCC HH who said that nerds consuming only pizza and club-mate had an unhealthy lifestyle) with caffeine and Yerba Mate. Whereas Oleander wants to develop a drink without juice. Surely not easy...
+The idea of Leonard is to combine juice (referring to Rainer at CCC HH who said that nerds only consume pizza and club-mate had an unhealthy lifestyle) with caffeine and Yerba Mate. Whereas Oleander wants to develop a drink without juice. Surely not easy...
 
 ### Oleander's __initial__ version ###
 #### Partslist ####
@@ -15,7 +15,7 @@ The idea of Leonard is to combine juice (referring to Rainer at CCC HH who said 
 * (cane) sugar
 * boiled water
 * a funnel
-* a squeeze of leomon
+* a squeeze of lemon
 * a straw, a tube or what ever you can use to add your sparkling water to the sud (?) without losing the co2
 * a fine-meshed and a large-meshed sieve
 * two pots or something of the kind
