@@ -12,6 +12,8 @@ without juice. Surely not easy...
 
 ### Oleander's __initial__ version ###
 
+*Outdated!* Look [here](http://piratepad.net/EuHzx9YOQT) for the latest version in German (there will be a translation soonTM).
+
 #### Ingredients ####
 
 * as much sparkling water as possible (e.g. Vitaqua Quelle CLASSIC from ALDI Nord named Quellbrunn or from REWE named ja!)
